@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35118.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizza_Blazor_API", "Pizza_Blazor_API.csproj", "{037DAE4E-1199-43B5-88AC-36B59F3A2C8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037DAE4E-1199-43B5-88AC-36B59F3A2C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037DAE4E-1199-43B5-88AC-36B59F3A2C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037DAE4E-1199-43B5-88AC-36B59F3A2C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037DAE4E-1199-43B5-88AC-36B59F3A2C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57DB1345-C4D5-4013-AA40-6B75B9777340}
+	EndGlobalSection
+EndGlobal
